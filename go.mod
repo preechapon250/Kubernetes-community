@@ -1,6 +1,6 @@
 module k8s.io/community
 
-go 1.22.4
+go 1.24.0
 
 require (
 	github.com/client9/misspell v0.3.4
@@ -27,8 +27,8 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/xanzy/ssh-agent v0.2.1 // indirect
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
-	golang.org/x/net v0.0.0-20201224014010-6772e930b67b // indirect
-	golang.org/x/sys v0.0.0-20210112080510-489259a85091 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
